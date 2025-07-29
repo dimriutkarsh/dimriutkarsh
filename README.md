@@ -1,25 +1,25 @@
 ## Hi there 👋
 # 🚀 Welcome to My GitHub Profile!
 
-Hi there 👋, I'm **Utkarsh Dimri** — an aspiring **AI/ML Engineer**, full of passion for intelligent systems, productivity tools, and automation.  
-I enjoy building scalable AI applications, crafting anime-themed web projects, and experimenting with LLMs.
+Hi there 👋, I'm **Utkarsh Dimri** — an aspiring **AI/ML Engineer**, passionate about building intelligent systems, AI tools, and GenAI-based productivity apps.  
+I enjoy crafting full-stack AI solutions, exploring LLMs, scraping data from the web, and making creative projects based on anime themes like **Solo Leveling**.  
 
 ---
 
-### 💻 Technologies & Tools I Use
+## 🛠️ Tech Stack
 
-#### 🔹 Programming & Core Concepts
+### 🔹 Programming & Web
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 </p>
 
-#### 📊 Data Analysis & Visualization
+### 📊 Data Analysis & Visualization
 <p align="left">
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -27,39 +27,51 @@ I enjoy building scalable AI applications, crafting anime-themed web projects, a
   <img src="https://img.shields.io/badge/Seaborn-2E8BC0?style=for-the-badge&logo=seaborn&logoColor=white" />
 </p>
 
-
-#### 🧠 AI, ML & CV Tools
+### 🧠 LLMs & Gen AI
 <p align="left">
-  <img src="https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/GPT-005571?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
+### ⚙️ AI Tools & Productivity
+<p align="left">
+  <img src="https://img.shields.io/badge/MLflow-FF6F00?style=for-the-badge&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Whisper-4A90E2?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/DALL·E-000000?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stable Diffusion-FF007F?style=for-the-badge&logoColor=white" />
+</p>
 
 ---
 
-### 📌 Featured Projects
-- 🤖 **AI WhatsApp Agent** – Text/Voice/Image reply AI using OpenAI & WhatsApp API  
-- 📈 **NumPy Scientific Calculator** – With analytics and data ops  
-- 🔍 **Flipkart & Amazon Scrapers** – Web scraping and price analysis using BeautifulSoup  
-- 🧠 **LLM-Based Tools** – GPT/Flask-based chatbot with leveling (Solo Leveling theme)  
-- 🌦️ **Weather & News Bots** – Scrapes and reads data out loud
+## 🧪 Featured Projects
+- 🤖 **AI WhatsApp Agent** – Sends text, voice, or image replies via OpenAI API  
+- 📈 **NumPy Scientific Calculator** – With data analysis tools  
+- 🔍 **E-commerce Scraper** – Scraped Flipkart, Amazon, and more using BeautifulSoup  
+- 🎮 **Solo Leveling Task App** – Flask-based anime-themed leveling system  
+- 📰 **News Reader Bot** – Scrapes & reads news headlines out loud
 
 ---
 
-### 📚 Current Learning Goals
-- Data Structures & Algorithms in Python (via YouTube & Kaggle)  
-- Advanced Visualization Tools (Plotly, Dash)  
-- LLM Fine-tuning & Deployment
+## 📚 Learning & Goals
+- Learning: **Data Structures & Algorithms in Python**, **Web Scraping**, **LLM tools**,**Machine Learning**
+- Goal: Become a **Top AI/ML Engineer** skilled in **GenAI**, **LLMs**, and **ML deployment**
 
 ---
 
-### 📬 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utkarsh-dimri-029672242/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dimriutkarh)
+## 🔗 Let's Connect
+<p align="left">
+  <a href="linkedin.com/in/utkarsh-dimri-029672242/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/dimriutkarsh">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.kaggle.com/utkarshdimri">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-*“I level up with every bug I fix and every project I build – just like Solo Leveling!”* ⚔️
+🧠 *“I level up with every bug I fix and every project I complete — just like in Solo Leveling!”* ⚔️  
+
 
