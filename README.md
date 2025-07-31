@@ -2,7 +2,7 @@
 # 🚀 Welcome to My GitHub Profile!
 
 Hi there 👋, I'm **Utkarsh Dimri** — an aspiring **AI/ML Engineer**, passionate about building intelligent systems, AI tools, and GenAI-based productivity apps.  
-I enjoy crafting full-stack AI solutions, exploring LLMs, scraping data from the web, and making creative projects based on anime themes like **Solo Leveling**.  
+I enjoy crafting full-stack AI solutions, exploring LLMs, scraping data from the web, and making creative projects.  
 
 ---
 
@@ -72,6 +72,6 @@ I enjoy crafting full-stack AI solutions, exploring LLMs, scraping data from the
 
 ---
 
-🧠 *“I level up with every bug I fix and every project I complete — just like in Solo Leveling!”* ⚔️  
+🧠 *“I level up with every bug I fix and every project”* ⚔️  
 
 
