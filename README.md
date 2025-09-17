@@ -1,107 +1,86 @@
-Perfect 💡 — a flashy GitHub README works best when it looks like a **personal landing page**, not just a wall of text. We can add:
+## Hi there 👋  
+# 🚀 Welcome to My GitHub Profile!  
 
-* 🔥 **Banners & GIFs** (header + dividers)
-* 🖼️ **Icons / Badges** (shields.io, skillicons.dev)
-* 🎨 **Section styling** (centered text, emojis, collapsible sections)
-* 📊 **Dynamic Stats** (GitHub stats, streak, top languages, profile views)
-* 🚀 **Project showcase cards**
-
-Here’s a **flashy README template for you**, updated with **your actual skills + projects** 👇
-
----
-
-```markdown
-<!-- Header Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=🚀%20Utkarsh%20Dimri%20—%20AI/ML%20Engineer%20in%20Progress&fontSize=32&fontAlignY=35&animation=twinkling"/>
-</p>
-
-<!-- Typing SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=500&lines=Aspiring+AI%2FML+Engineer;Building+GenAI+%26+LLM+Apps;Full-Stack+AI+Solutions;30%2B+Kaggle+Notebooks+%26+Datasets;Leveling+Up+Everyday!"/>
-</p>
+Hi there 👋, I'm **Utkarsh Dimri** — an aspiring **AI/ML Engineer**, passionate about building intelligent systems, AI tools, and GenAI-based productivity apps.  
+I enjoy crafting **full-stack AI solutions**, exploring **LLMs**, scraping data from the web, and making **creative ML projects**.  
 
 ---
 
 ## 🛠️ Tech Stack  
 
 ### 🔹 Programming & Web  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,js,html,css,bootstrap,flask,django,git,github" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 </p>
 
-### 📊 Data Science & ML  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python" />
+### 📊 Data Analysis & Machine Learning  
+<p align="left">
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-2E8BC0?style=for-the-badge&logo=seaborn&logoColor=white" />
+  <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-- NumPy | Pandas | Matplotlib | Seaborn  
-- Scikit-learn (Regression, Classification, Ensembles: AdaBoost)  
-- SQL (Intermediate)  
-- Kaggle: 30+ notebooks, 3 datasets  
+### 🧠 LLMs & Gen AI  
+<p align="left">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-F5317F?style=for-the-badge&logo=n8n&logoColor=white" />
+</p>
 
-### 🧠 AI, LLMs & GenAI  
-- OpenAI & Google Gemini APIs  
-- LangChain, n8n automation  
-- AI Agents, Voice Assistants, WhatsApp Bots  
+### ⚙️ Tools & Productivity  
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
+</p>
 
 ---
 
 ## 🧪 Featured Projects  
-
-| 🚀 Project | 🔎 Description |
-|------------|----------------|
-| 🤖 **AI WhatsApp Agent** | Voice/text automation with Gemini API |
-| 📈 **NumPy Scientific Calculator** | Analysis tools + medium data processing |
-| 🔍 **E-commerce Scraper** | Flipkart & Amazon product scraper |
-| 📊 **SPARK Student Tracker** | Centralized system for student progress |
-| 📰 **News Reader Bot** | Scrapes headlines + reads aloud |
-| 🏠 **Car & House Price Prediction** | ML regression projects |
-| 💳 **Fraud Detection System** | With frontend integration |
-| 🎬 **Movie Recommendation System** | ML-based recommender |
-| 🔥 **Forest Fire Dashboard** | Real-time monitoring + alerts |
+- 🤖 **AI WhatsApp Agent** – Voice & text automation using Gemini API  
+- 📈 **NumPy Scientific Calculator** – Includes data analysis features  
+- 🔍 **E-commerce Scraper** – Flipkart & Amazon product scraper  
+- 📊 **SPARK Student Tracker** – Centralized system for student progress  
+- 📰 **News Reader Bot** – Scrapes headlines & reads them aloud  
+- 🏠 **Car & House Price Prediction** – ML regression models  
+- 💳 **Fraud Detection System** – ML with frontend integration  
+- 🎬 **Movie Recommendation System** – ML-based recommender system  
+- 🔥 **Forest Fire Dashboard** – Real-time monitoring & alert system  
 
 ---
 
 ## 📚 Learning & Goals  
-
-- **Learning:** DSA (Python & C), SQL, Probability, ML Models, LLMs  
-- **Focus:** Kaggle competitions, ML deployment, GenAI tools  
-- **Goal:** Become a **top AI/ML Engineer** mastering GenAI + end-to-end ML solutions  
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=utkarshdimri&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=utkarshdimri&theme=radical" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshdimri&layout=compact&theme=radical"/>
-</p>
+- **Learning:** DSA (Python & C), SQL, Probability, ML models, LLM tools  
+- **Focus:** Kaggle competitions, ML deployment, GenAI projects  
+- **Goal:** Become a **Top AI/ML Engineer** skilled in **GenAI, LLMs, and end-to-end ML solutions**  
 
 ---
 
-## 🔗 Let’s Connect  
-
-<p align="center">
-  <a href="https://github.com/utkarshdimri"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/utkarsh-dimri"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:utkarshdimri@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+## 🔗 Let's Connect  
+<p align="left">
+  <a href="https://www.linkedin.com/in/utkarsh-dimri-029672242/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/dimriutkarsh">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.kaggle.com/utkarshdimri">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-<!-- Footer Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-</p>
-```
-
----
-
-⚡ This will make your GitHub look like a **techy personal website** with banners, typing animations, badges, and project highlights.
-
-👉 Do you want me to also **add GIF previews/screenshots** of your projects (like Forest Fire Dashboard, Kaggle notebooks, etc.) so the README looks like a **portfolio page** too?
+🧠 *“I level up with every bug I fix and every project I ship”* ⚔️  
